@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Zen+Dots&display=swap');
+body{
+    background-color: #756C6C;
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+}
+
+h1{
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+}
+.img{
+    display: block;
+    margin: auto;
+    width: 25%;
+}
+h3{
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+    height: 20px;
+    padding: 0 500px;
+}
+.retour{
+    color: black;
+    display: flex;
+    position: absolute;
+    top: -30px;
+    left: 100px;
+
+}
+.img3{
+    height: 500px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+}
+.ted3{
+    padding-top: 50px;
+}
+
+.img5{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

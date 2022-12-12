@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Zen+Dots&display=swap');
+
+
+body {
+    background: #756C6C;
+    margin: 0;
+    padding: 0;
+    background-image: url(Untitled.png) ;
+    background-repeat: no-repeat;
+    background-size: 100% 3150px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 3000px;
+
+}
+/* header */
+header{
+    padding-top: 0;
+    text-align: center;
+    background-color: #D8CBC7;
+    margin-top: -40px;
+    font-size: 30px;
+    padding: 25px;
+    margin-bottom: 0;
+    font-family: 'Lora', serif;
+
+}
+.title{
+    background: url(2MdY.gif);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+/* ------------------------------- */
+/* loader */
+
+
+
+/* --------------- */
+
+.timeline{
+    text-align: center;
+    font-size: 60px;
+    display: flex;
+    flex-direction: column;
+    padding: 1px 810px ;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+
+
+}
+footer{
+    background: #55917F;
+    display: flex;
+    position: absolute;
+    height: 150px;
+    top: 3150px;
+    width: 100%;
+}
+
+
+
+
+/* button */
+.button1{
+    
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.button2{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    
+}
+.button3{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    
+}
+.button4{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    
+}
+.button5{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    
+}
+.button6{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    
+}
+.button7{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    
+}
+.button8{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    
+}
+.button9{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: #B94545;
+    
+}
+.button10{
+    display: inline-block;
+    position: absolute;
+    color: aliceblue;
+    text-decoration: none;
+    top: 2450px;
+    right: 43.6%;
+    border-radius: 10px;
+    margin-top: 0px;
+    background-color: rgba(58, 17, 17, 0);
+    
+}
+
+
+
+
+.button1:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button2:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button3:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button4:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button5:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button6:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button7:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button8:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button9:hover {
+    animation: pulsate 1s ease-in-out;
+}
+.button10:hover {
+    animation: pulsate 1s ease-in-out;
+}
+
+@keyframes pulsate{
+    0%{
+        box-shadow: 
+        0 0 25px blanchedalmond,
+        0 0 50px purple;
+        ;
+    }
+}
+/* -------------- */
+
+/* scroll bar */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track{
+    background-color: #D8CBC7;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #55917F;
+    border-radius: 10px;
+}
+
+/* -------------- */
+
+
+.txt1{
+display: flex;
+position: absolute;    
+top: 330px;
+right: 10px;
+font-family: 'Zen Dots', cursive;
+font-size: 30px;
+}
+.txt2{
+    display: flex;
+    position: absolute;    
+    top: 540px;
+    right: 1100px;
+    font-family: 'Zen Dots', cursive;
+    font-size: 30px;
+    }
+    .txt3{
+        display: flex;
+        position: absolute;    
+        top: 800px;
+        right: 90px;
+        font-family: 'Zen Dots', cursive;
+        font-size: 30px;
+        }
+        .txt4{
+            display: flex;
+            position: absolute;    
+            top: 1040px;
+            right: 1100px;
+            font-family: 'Zen Dots', cursive;
+            font-size: 30px;
+            }
+            .txt5{
+                display: flex;
+                position: absolute;    
+                top: 1235px;
+                right: 115px;
+                font-family: 'Zen Dots', cursive;
+                font-size: 30px;
+                }
+                .txt6{
+                    display: flex;
+                    position: absolute;    
+                    top: 1510px;
+                    right: 1110px;
+                    font-family: 'Zen Dots', cursive;
+                    font-size: 30px;
+                    }
+                    .txt7{
+                        display: flex;
+                        position: absolute;    
+                        top: 1750px;
+                        right: 10px;
+                        font-family: 'Zen Dots', cursive;
+                        font-size: 30px;
+                        }
+                        .txt8{
+                            display: flex;
+                            position: absolute;    
+                            top: 1990px;
+                            right: 1100px;
+                            font-family: 'Zen Dots', cursive;
+                            font-size: 30px;
+                            }
+                            .txt9{
+                                display: flex;
+                                position: absolute;    
+                                top: 2200px;
+                                right: 100px;
+                                font-family: 'Zen Dots', cursive;
+                                font-size: 30px;
+                                }
+.cadeau{
+    display: flex;
+    padding-top: 190px;
+    margin: auto;
+}
+.oeuf{
+    height: 100px;
+    position: absolute;
+    top: 25px;
+    right: 100px;
+
+}
